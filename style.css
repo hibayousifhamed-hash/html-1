@@ -62,7 +62,7 @@ header nav ul{
 .hero{
     
     height: 90vh;
-     background-image:url(image/1.jpg) ;
+     background-image:url(./image/architect-1.jpg) ;
     background-position: center;
     background-size: cover; 
     background-blend-mode:overlay;
@@ -161,4 +161,5 @@ footer{
 .card {
   background: #eee;
   padding: 20px;
+
 } */
